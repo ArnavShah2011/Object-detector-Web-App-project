@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+    font-family: cursive;
+    text-align: center;
+}
+#sui{
+  width: 15%;  
+}
+button{
+    border-radius:25px;
+    width: 15%;
+    height: 7%;
+}
